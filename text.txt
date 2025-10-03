@@ -1,0 +1,52 @@
+1- Github 
+2-Front End
+HTML CSS TAILWIND CSS JAVASCRIPT REACTJS REDUX REDUX-TOOLKIT REDUX-THUNK NEXTJS
+
+JAVASCRIPT :
+COURSE >> REACT >> JAVASCRIPT + REACT Works
+
+
+JAVASCRIPT 
+BASICS OF JAVASCRIPT
+HTML CSS
+DOM
+AD JS
+
+SIMPLE WEBSITE >>STATIC 
+DYNAMIC WEBSITE >> INTERATCIVE >> CRUD in JS
+
+
+LANDING PAGE >> HOW MUCH ?
+
+U KNOW >> UNLEARN >> LEARN 
+SKIP >> 
+CODE MORE | PRACTICE MORE | LOGICAL SKILLS >> 1 PROBLEM SOLVING QUESTION >> JAVASCRIPT
+
+
+JAVASCRIPT BASICS:
+automation
+functions
+loops
+oops & classes 
+
+
+JAVASCRIPT >> BRANDON EICH  >> JAVA
+LIVEWIRE LIVESCRIPT >>JAVASCRIPT >> OOPS 
+
+JAVASCRIPT >> INSIDE THE BROWSER >> GOOGLE chrome >> v8 engine 
+NODEJS >> JAVASCRIPT >> OUTSIDE THE BROSWER >> NODE 
+
+HELLO WORLD
+helloworld.JS
+terminal >> correct path >>
+error ?
+cd JAVASCRIPT
+
+cd >> change the directory
+cls >> clear the terminal
+cd .. >> 1 level behind
+
+console.log() // developers , debugging purposes
+
+// run time environment >> plaftorm to run ur code >> cross platform 
+
