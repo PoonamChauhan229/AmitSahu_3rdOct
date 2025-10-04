@@ -11,13 +11,6 @@ console.log("Hello World")
     console.log(20+50+'78'+90+80) //70789080
     // add num +string || string +num >> doesnt throw error 
 
-// Composite Datatypes
-//  Arrays & Objects
-//  arrays and objects >>its is the same
-
-// arrays >> [] >> hetrogrnouw mix >> str, num, boolean, [] ,{}
-// index no >> start 0 end length-1
-// access >> 
 
 
 // JS >> varaible declration

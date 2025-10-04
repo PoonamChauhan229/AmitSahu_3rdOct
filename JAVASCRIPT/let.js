@@ -35,3 +35,4 @@ console.log("________________________________________")
 
         // scope >> limit >>reach to that particular variable >> error >> not defined  || not decleared
         // not defined >> error || undefined >> datatype >> value to unassigned varaible
+
