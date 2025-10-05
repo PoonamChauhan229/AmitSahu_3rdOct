@@ -55,13 +55,54 @@ greetings("John",34,"john@gmail.com") // user
 function add(num1,num2){
     // console.log(2+2) // dynamic output >> 45,3 >>48|| 100,3 >>103
     console.log("Total:",num1+num2) //prints inside the funtion
-    return 1                        //prints outside the funtion
-    console.log("Total:",num1+num2) //wont exceute neither print will happen
-   
+    return 100          //static return            //prints outside the funtion
+    //console.log("Total:",num1+num2) //wont exceute neither print will happen
 }
 add(45,3)
 add(100,3)
-console.log(add(78,2))
+console.log(add(78,2)) // o/p >> variable
+let data=add(6,7)
+console.log(data)
+console.log(data+600)
+
+
+function sum(num1,num2){
+    // console.log(num1+num2)
+    let total=num1+num2
+    return total
+}
+let data1=sum(100,400)
+console.log(data1)
+
+function multiply(x){
+    // print >> data *2
+    // data1*2
+    console.log(x*2)
+}
+multiply(data1)
+
+// funct1 >> Subjects >>Sci , Mat, eng >> total
+function totalMarks(sci,math,eng){
+    total=sci+math+eng
+    return total
+}
+
+// funct2 >> cal % >>total from function1  
+function calPercent(x,y){
+    // (marksObtained/totalMarks) *100  >>258/300 *100
+    let percent=(x/y)*100
+    return percent
+}
+// funct3 >> print % and total marks scored by student
+function printMessage(s1,s2,s3,tm){
+    // percentage , totalmarks
+    let marksObtained=totalMarks(s1,s2,s3)
+    let percentage=calPercent(marksObtained,tm)
+    console.log(`My marks is: ${marksObtained} and my Percentage is:${percentage}%`)
+}
+printMessage(90,89,79,300) //args sci math eng >> total 300
+
+
 
 
 // function with paramenter/ without parameter but with return statement
